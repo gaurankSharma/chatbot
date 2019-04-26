@@ -1,0 +1,84 @@
+[
+  {
+    "id": "trivia-U_3sZz",
+    "formData": {
+      "question": "Which built-in method returns the index within the calling String object of the first occurrence of the specified value?",
+      "good": "indexOf()",
+      "bad": [
+        "getIndex()",
+        "location()",
+        "None of this."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-02-08T18:20:47.638Z"
+  },
+  {
+    "id": "trivia-DEiIPP",
+    "formData": {
+      "question": "Which built-in method reverses the order of the elements of an array?",
+      "good": "reverse()",
+      "bad": [
+        "changeOrder(order)",
+        "sort(order)",
+        "None of this."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-02-08T18:21:33.077Z"
+  },
+  {
+    "id": "trivia-wImL3f",
+    "formData": {
+      "question": "Which of the following function of Boolean object returns the primitive value of the Boolean object?",
+      "good": "valueOf()",
+      "bad": [
+        "toSource()",
+        "toString()",
+        "None of this."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-02-08T18:23:02.775Z"
+  },
+  {
+    "id": "trivia-zsfQQm",
+    "formData": {
+      "question": "Can you assign a anonymous function to a variable?",
+      "good": "true",
+      "bad": [
+        "false"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-02-08T18:24:37.649Z"
+  },
+  {
+    "id": "trivia-dd3RQE",
+    "formData": {
+      "question": "Which of the following function of String object creates an HTML anchor that is used as a hypertext target?",
+      "good": "anchor()",
+      "bad": [
+        "link()",
+        "blink()",
+        "big()"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-02-08T18:26:16.900Z"
+  },
+  {
+    "id": "trivia-9Jn6J2",
+    "formData": {
+      "question": "Which of the following function of Array object applies a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value?",
+      "good": "reduceRight()",
+      "bad": [
+        "pop()",
+        "push()",
+        "reduce()"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-02-08T18:27:10.562Z"
+  }
+]
